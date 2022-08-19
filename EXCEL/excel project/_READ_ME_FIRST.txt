@@ -1,0 +1,1 @@
+Note: the dates in the CSV files are dd/mm/yyyy format. If your region uses mm/dd/yyyy format, please watch this tutorial on how to convert them to your region: https://youtu.be/QKgS3hrrmvw
